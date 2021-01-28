@@ -6,4 +6,5 @@ Bînome Staelen Rémi - Vanbelle Aurélien
 - On ne peut pas sauter des pièces
 - Petit et grand roque
 - 2 joueurs
-- LE roi est averti quan dil est en echec, mais il faut le prendre pour
+- Le roi est averti quand il est en echec, mais il faut le prendre
+  pour gagner
